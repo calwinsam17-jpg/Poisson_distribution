@@ -76,7 +76,7 @@ for x in range(len(obs)):
 <img width="890" height="412" alt="image" src="https://github.com/user-attachments/assets/85ed13fe-7752-492f-a399-f326c01d82be" />
 
 
-
+https://github.com/calwinsam17-jpg/Poisson_distribution/edit/main/README.md
 # Results
 
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
